@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Andrew Tutia a self taught software developer!
-- 👀 I used to be a mechanical engineer but converted to the dark side!
-- 🌱 I’m currently submersing myself in Blockchain Developement and currently in the Consensys Bootcamp!
-- 💞️ I’m looking to collaborate on Blockchain applications, DeFi, Dapps, NFT's, you name it!
-- 📫 Feel free to connect on Twitter or Instagram! Twitter: @atortilaaa Instgram: @a_tortilaaa
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atootdev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atootdev)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 👋 Hello there!
+- 🌱 Working on Blockchain
+- 📫 Connect with me! Twitter: @tortilaaaa
 
 <!---
 atootdev/atootdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
