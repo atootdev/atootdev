@@ -20,7 +20,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 - 🌱 Currently exploring reinforcement learning and MLOps
 - 💼 Open to collaboration on innovative data science projects
 - 📊 Experienced with cloud ML platforms (AWS, GCP, Azure)
-- 📫 Reach me at: carlos.rodriguezacosta@gmail.com
+- 📫 Reach me at: aktutia@gmail.com
 
 ## 🚀 Featured Projects
 
