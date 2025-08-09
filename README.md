@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/atootdev?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atootdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-tutia/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carlosrod723.github.io/Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mygreatlearning.com/eportfolio/andrew-tutia)
 
 </div>
 
@@ -222,6 +222,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 <div>
 
+- [**Texas McCombs School of Business: Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications**](https://www.mygreatlearning.com/eportfolio/andrew-tutia) 
 - [**Udemy: Python For Data Science and Machine Learning**](https://www.udemy.com/certificate/UC-31b74657-ce3e-40c8-af46-68dc01c9232c/)
 
 </div>
