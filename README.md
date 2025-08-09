@@ -29,7 +29,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 <div class="project-category">
 
 ### 🤖 Machine Learning Applications
-
+- [**SuperKart-Sales-Prediction**](https://github.com/atootdev/SuperKart-Sales-Prediction) - ML project to predict product sales for retail supermarket SuperKart.
 </div>
 
 </div>
