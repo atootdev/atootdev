@@ -222,7 +222,7 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 <div>
 
-- [**Udemy: Python For Data Science and Machine Learning**](https://github.com/atootdev/SuperKart-Sales-Prediction)
+- [**Udemy: Python For Data Science and Machine Learning**](https://www.udemy.com/certificate/UC-31b74657-ce3e-40c8-af46-68dc01c9232c/)
 
 </div>
 
