@@ -32,6 +32,23 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 - [**SuperKart-Sales-Prediction**](https://github.com/atootdev/SuperKart-Sales-Prediction) - ML project to predict product sales for retail supermarket SuperKart.
 </div>
 
+<div class="project-category">
+
+### 🔤 NLP & AI Agents
+- [**X-CustomerSupport-Chatbot**](https://github.com/carlosrod723/X-CustomerSupport-Chatbot) - NLP-powered AI tool with LangChain, FAISS, and OpenAI's GPT-3.5-turbo for Twitter/X support.
+- [**BART-Abstract-Text-Summarization**](https://github.com/carlosrod723/BART-Abstract-Text-Summarization) - Abstractive text summarization using BART transformer model.
+- [**DeepVision-Tesseract-OCR-InvoiceScanner**](https://github.com/carlosrod723/DeepVision-Tesseract-OCR-InvoiceScanner) - Custom OCR system using YOLO V4 and Tesseract for automated invoice scanning.
+
+</div>
+
+<div class="project-category">
+
+### 📈 LLM Apps
+- [**Climate-Visualization-Shiny-App**](https://github.com/carlosrod723/Climate-Visualization-Shiny-App) - Shiny web app for visualizing climate data with time series analysis and anomaly detection.
+- [**Work-Capital-Optimization-Tableau-Dashboards**](https://github.com/carlosrod723/Work-Capital-Optimization-Tableau-Dashboards) - Interactive Tableau dashboards for Account Payables and Receivables analysis.
+
+</div>
+
 </div>
 
 ## 🛠️ Technical Skills
@@ -203,7 +220,9 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 
 ## 🏆 Certifications
 
-<div align="center">
+<div>
+
+- [**Udemy: Python For Data Science and Machine Learning**](https://github.com/atootdev/SuperKart-Sales-Prediction)
 
 </div>
 
@@ -214,8 +233,6 @@ I'm a data scientist and machine learning engineer with expertise in predictive 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atootdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atootdev&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atootdev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
